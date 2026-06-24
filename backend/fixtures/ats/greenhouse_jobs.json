@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {
+      "id": 501001,
+      "title": "Senior Backend Engineer",
+      "updated_at": "2026-06-12T15:20:00-04:00",
+      "absolute_url": "https://boards.greenhouse.io/tailscale/jobs/501001",
+      "location": { "name": "Remote - US" },
+      "departments": [{ "name": "Engineering" }],
+      "offices": [{ "name": "Remote" }],
+      "metadata": [
+        { "name": "Employment Type", "value": "Full-time" },
+        { "name": "Salary", "value": "$160,000 - $190,000 USD" }
+      ],
+      "content": "<p>Build secure networking products with Go, Python, PostgreSQL, and distributed systems.</p>"
+    },
+    {
+      "id": 501002,
+      "title": "Product Data Analyst",
+      "updated_at": "2026-06-14T09:00:00-04:00",
+      "absolute_url": "https://boards.greenhouse.io/tailscale/jobs/501002",
+      "location": { "name": "Toronto, Canada" },
+      "departments": [{ "name": "Data" }],
+      "metadata": [{ "name": "Employment Type", "value": "Full-time" }],
+      "content": "<p>Use SQL and analytics to help product teams understand adoption.</p>"
+    }
+  ]
+}

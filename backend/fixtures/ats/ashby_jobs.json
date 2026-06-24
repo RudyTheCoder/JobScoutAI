@@ -1,0 +1,33 @@
+{
+  "jobs": [
+    {
+      "id": "ashby-301",
+      "title": "Data Platform Engineer",
+      "jobUrl": "https://jobs.ashbyhq.com/posthog/ashby-301",
+      "applyUrl": "https://jobs.ashbyhq.com/posthog/ashby-301/application",
+      "publishedAt": "2026-06-15T12:00:00.000Z",
+      "updatedAt": "2026-06-16T12:00:00.000Z",
+      "location": { "name": "Remote, US" },
+      "department": { "name": "Engineering" },
+      "employmentType": "Full-time",
+      "compensation": {
+        "compensationTierSummary": "$150k - $185k",
+        "currencyCode": "USD",
+        "minSalary": 150000,
+        "maxSalary": 185000
+      },
+      "descriptionHtml": "<p>Own analytics pipelines with Python, SQL, FastAPI, and PostgreSQL.</p>"
+    },
+    {
+      "id": "ashby-302",
+      "title": "Customer Analytics Engineer",
+      "jobUrl": "https://jobs.ashbyhq.com/posthog/ashby-302",
+      "applyUrl": "https://jobs.ashbyhq.com/posthog/ashby-302/application",
+      "publishedAt": "2026-06-18T12:00:00.000Z",
+      "location": "London, UK",
+      "department": { "name": "Data" },
+      "employmentType": "Full-time",
+      "descriptionHtml": "<p>Partner with customers on analytics instrumentation and dashboards.</p>"
+    }
+  ]
+}
